@@ -1,0 +1,26 @@
+body.article-focused #header, 
+body.article-focused div.day, 
+body.article-focused nav.nav_menu, 
+body.article-focused .aside, 
+body.article-focused #sidebar, 
+body.article-focused #nav_entries, 
+body.article-focused div.search, 
+body.article-focused .nav_menu, 
+body.article-focused .configure, 
+body.article-focused form#stream-footer, 
+body.article-focused div#stream-footer, 
+body.article-focused .aside_feed, 
+body.article-focused #panel {
+  display: none !important;
+}
+
+body.article-focused #stream, 
+body.article-focused #content {
+  width: 100% !important;
+  margin: 0 auto !important;
+  max-width: 800px !important;
+}
+
+body.article-focused {
+  padding-top: 0 !important;
+}
