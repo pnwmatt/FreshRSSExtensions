@@ -1,4 +1,3 @@
-console.log('hey');
 (function() {
   // Extension initialization
   function init() {
