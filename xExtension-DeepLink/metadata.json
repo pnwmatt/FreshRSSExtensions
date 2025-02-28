@@ -1,0 +1,8 @@
+{
+  "name": "DeepLink",
+  "author": "PNWMatt",
+  "description": "Enables deep linking to specific articles in FreshRSS",
+  "version": 1.0,
+  "entrypoint": "DeepLink",
+  "type": "user"
+}
